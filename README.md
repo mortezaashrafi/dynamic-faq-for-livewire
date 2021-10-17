@@ -1,3 +1,5 @@
+<img src="https://mortezaashrafi.ir/dynamic-faq-for-livewire.jpg">
+
 **Step 1**
 install laravel
 `composer create-project --prefer-dist laravel/laravel faq`
